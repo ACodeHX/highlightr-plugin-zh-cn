@@ -17,4 +17,4 @@
 或者下载`main.js,manifest.json,styles.css`到/.obsidian/plugins/的目录里
 
 ### 汉化部分展示
-#### 常规设置
+![obsidian-Highlightr](https://github.com/ACodeHX/highlightr-plugin-zh-cn/assets/127362983/925f0f39-5c3d-494c-b1ae-52156186eea7)
