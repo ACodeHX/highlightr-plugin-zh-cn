@@ -1,0 +1,10 @@
+{
+  "id": "highlightr-plugin",
+  "name": "Highlightr",
+  "version": "1.2.2",
+  "minAppVersion": "0.12.8",
+  "description": "一个简约而美观的高亮文本插件，通过可配置的一系列高亮颜色，使彩色高亮变得更加容易 🎨.",
+  "author": "chetachi",
+  "authorUrl": "https://github.com/chetachiezikeuzor",
+  "isDesktopOnly": false
+}
