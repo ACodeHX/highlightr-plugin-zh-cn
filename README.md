@@ -4,7 +4,7 @@
 
 这个项目包含了来自 [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin) 的代码，遵循 MPL 许可。
 本项目是Obsidian Highlightr的汉化,如果有汉化不对的地方，欢迎来矫正。
-[文本对比]
+[文本对比](https://github.com/ACodeHX/highlightr-plugin-zh-cn/tree/main/res)
 ### 安装
 由于没有黑曜石笔记的网站所以插件不会上架社区商店
 
